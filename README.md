@@ -34,4 +34,4 @@
 - [ ] time in task remaining `[_____#########]`
 - [ ] event info on button down
 
-![launchpad showing calendar events](img/examples.jpeg)
+![launchpad showing calendar events](img/examples.jpg)
