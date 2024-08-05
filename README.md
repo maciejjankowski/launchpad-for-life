@@ -29,6 +29,8 @@
 
 ## Progress
 
+Main file: [`lp_cal.py`](https://github.com/maciejjankowski/launchpad-for-life/blob/main/lp_cal.py)
+
 - [x] calendar events show on lp
 - [ ] pomodoro mini-app
 - [ ] time in task remaining `[_____#########]`
